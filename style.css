@@ -152,4 +152,7 @@ footer p{
     .btn2{
         width: 14%;
     }
+    *{
+        font-family: Tahoma, Verdana, Sans-serif;
+    }
 }
