@@ -157,4 +157,8 @@ footer p{
     body{
         font-family: Tahoma, Verdana, Geneva, Gabriola, Arial, Sans-serif;
     }
+    .paragraph{
+        width: 50%;
+        background-color: black;
+    }
 }
