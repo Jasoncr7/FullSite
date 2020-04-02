@@ -103,7 +103,6 @@ hr{
     margin-left: 10%;
 }
 .paragraph{
-    background-color: rgb(117, 160, 160);
     margin: auto;
     text-align: center;
 }
@@ -156,9 +155,5 @@ footer p{
     }
     body{
         font-family: Tahoma, Verdana, Geneva, Gabriola, Arial, Sans-serif;
-    }
-    .paragraph{
-        background-color: black;
-        color: white;
     }
 }
